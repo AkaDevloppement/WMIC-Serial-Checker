@@ -1,7 +1,7 @@
 <p align='center'>
   <b>Follow me here:</b><br>  
   <a href="https://discord.gg/82mqZvUHDd">Discord Server</a> |
-  <a href="https://github.com/AkaDevloppement">Github</a> |
+  <a href="https://github.com/AkaDevloppement">Github</a> 
 </p>
 
 
@@ -72,4 +72,4 @@ Special Thanks to [Kaneiki Web](https://github.com/KanekiWeb) for the readme tem
   
 
 ### 📜 License
-WMIC Serial Checker is under licensed MIT [MIT License](https://github.com/).
+WMIC Serial Checker is under licensed MIT [MIT License](https://github.com/AkaDevloppement/WMIC-Serial-Checker/blob/main/LICENSE).
