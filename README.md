@@ -1,6 +1,6 @@
 <p align='center'>
   <b>Follow me here:</b><br>  
-  <a href="https://discord.gg/82mqZvUHDd">Discord Server</a> |
+  <a href="https://discord.gg/82mqZvUHDd">Discord</a> |
   <a href="https://github.com/AkaDevloppement">Github</a> 
 </p>
 
