@@ -2,7 +2,6 @@ try:
     from os import system, getenv, path, name
     if name != 'nt':
         print(f"\n [*] The '{name}' os system is not allowed.")
-        system('pause>nul')
         exit()
     else:
         pass
