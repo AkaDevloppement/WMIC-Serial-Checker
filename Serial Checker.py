@@ -1,10 +1,13 @@
+from os import name
+
+if name != 'nt':
+    print(f"\n [*] The '{name}' os system is not allowed.")
+    exit()
+else:
+    pass
+
 try:
-    from os import system, getenv, path, name
-    if name != 'nt':
-        print(f"\n [*] The '{name}' os system is not allowed.")
-        exit()
-    else:
-        pass
+    from os import system, getenv, path
     from subprocess import check_output
     from time import sleep
     from ctypes import windll
